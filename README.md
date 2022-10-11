@@ -46,9 +46,3 @@ The following **bonus** features are implemented:
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past posts infinitely. (2pts)
 - [x] Added comment section & log out screen from Instagram part 2
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/tnO2XviHXh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
