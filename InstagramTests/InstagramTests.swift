@@ -2,7 +2,7 @@
 //  InstagramTests.swift
 //  InstagramTests
 //
-//  Created by Rosa Calosso on 10/6/21.
+//  
 //
 
 import XCTest
