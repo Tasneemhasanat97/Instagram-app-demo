@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src="http://g.recordit.co/tWY0K5lop4.gif" width=250><br>
-<img src="http://g.recordit.co/c9J4Ii3y0u.gif" width=250><br>
+<img src="http://g.recordit.co/ANCY9ow5HE.gif" width=250><br>
 
 # Instagram
 
