@@ -2,7 +2,7 @@
 //  LoginViewController.swift
 //  Instagram
 //
-//  Created by Kervens Delpe on 10/9/21.
+//  
 //
 
 import UIKit

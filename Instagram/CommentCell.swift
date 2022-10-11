@@ -2,7 +2,7 @@
 //  CommentCell.swift
 //  Instagram
 //
-//  Created by Kervens Delpe on 10/17/21.
+//  
 //
 
 import UIKit
