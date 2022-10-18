@@ -8,10 +8,10 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- User stays logged in across restarts.
-- User can log out. 
-- User can view comments on a post. 
-- User can add a new comment. 
+- [x] User stays logged in across restarts.
+- [x] User can log out. 
+- [x] User can view comments on a post. 
+- [x] User can add a new comment. 
 
 The following **bonus** features are implemented:
 
