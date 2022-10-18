@@ -1,4 +1,4 @@
-# Instagram - Part I
+# Instagram - Part II
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
@@ -18,14 +18,17 @@ The following **bonus** features are implemented:
 - User can add a profile picture. 
 - Profile pictures are shown for posts and comments.
 
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src="http://g.recordit.co/tWY0K5lop4.gif" width=250><br>
-<img src="http://g.recordit.co/ANCY9ow5HE.gif" width=250><br>
+<img src="http://g.recordit.co/OJHSJeMxh0.gif" width=250><br>
+<img src="http://g.recordit.co/PVIo1inJPW.gif" width=250><br>
 
-# Instagram
+
+
+# Instagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
@@ -46,3 +49,11 @@ The following **bonus** features are implemented:
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past posts infinitely. (2pts)
 - [x] Added comment section & log out screen from Instagram part 2
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src="http://g.recordit.co/tWY0K5lop4.gif" width=250><br>
+<img src="http://g.recordit.co/ANCY9ow5HE.gif" width=250><br>
