@@ -21,10 +21,10 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: OJHSJeMxh0
 
-<img src="http://g.recordit.co/OJHSJeMxh0.gif" width=250><br>
 <img src="http://g.recordit.co/PVIo1inJPW.gif" width=250><br>
+<img src="http://g.recordit.co/OJHSJeMxh0.gif" width=250><br>
 
 
 
